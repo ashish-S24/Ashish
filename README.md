@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img align="center" alt="zerotwo-pic" height="300" width="1500" style="border-radius:50px;" src="https://rishavanand.github.io/static/images/greetings.gif">
+<img src="https://user-images.githubusercontent.com/93777426/206903139-74c3b2dc-43d9-4926-a08f-2ace11738668.gif" min-width="400px" max-width="400px" width="900px" align="" alt="Computador iuriCode">
+
 
 
 
